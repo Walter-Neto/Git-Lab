@@ -1,1 +1,14 @@
 Hello World!
+
+
+git init
+
+git status
+
+git add "nome do arquivo"	ou	git add .
+
+git commit -m "commit inicial"
+
+git config --global user.email "walter.barcellos.pereira.neto@gmail.com"
+
+git config --global user.name "Walter Barcellos Pereira Neto"
