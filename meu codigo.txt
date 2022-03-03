@@ -17,6 +17,10 @@ git remote add origin https://github.com/Walter-Neto/Git-Lab
 
 git push --set-upstream origin master
 
+git add .
+
+git status
+
 git commit -m "Segundo Commit"
 
 git push
