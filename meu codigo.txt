@@ -12,3 +12,11 @@ git commit -m "commit inicial"
 git config --global user.email "walter.barcellos.pereira.neto@gmail.com"
 
 git config --global user.name "Walter Barcellos Pereira Neto"
+
+git remote add origin https://github.com/Walter-Neto/Git-Lab
+
+git push --set-upstream origin master
+
+git commit -m "Segundo Commit"
+
+git push
